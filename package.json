@@ -1,5 +1,5 @@
 {
-  "name": "@semantic-release/last-release-git-tag",
+  "name": "last-release-git-tag",
   "description": "Determine the version of the last release with git tags",
   "author": "Ari Porad <npm@ariporad.com> (http://github.com/ariporad)",
   "version":"0.0.0",
